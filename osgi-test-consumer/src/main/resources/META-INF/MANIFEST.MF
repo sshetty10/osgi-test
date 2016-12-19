@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: osgi-test-consumer
+Bundle-Version: 1.9.2
+Import-Package: biz.neustar.osgi.provider;version="1.6.2", javax.swing, org.osgi.framework
+Export-Package: biz.neustar.osgi.consumer;version="1.9.2"
+Bundle-Activator: biz.neustar.osgi.consumer.HelloWorldActivator

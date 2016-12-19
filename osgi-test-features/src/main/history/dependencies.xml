@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<features name="osgi-test-features-1.1.1">
+    <feature version="0.0.0">
+        <bundle>mvn:biz.neustar.osgi/osgi-test-consumer/1.9.2</bundle>
+        <bundle>mvn:biz.neustar.osgi/osgi-test-provider/1.6.2</bundle>
+    </feature>
+</features>
